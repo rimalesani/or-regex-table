@@ -98,7 +98,7 @@ ___SERVER_PERMISSIONS___
     "instance": {
       "key": {
         "publicId": "logging",
-        "versionId": "1"
+        "versionId": "2"
       },
       "param": [
         {
@@ -122,6 +122,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 10/03/2025, 12:39:35
+Created on 10/03/2025, 17:23:00
 
 
